@@ -315,6 +315,7 @@ svg{
 .explore-food .card img{
     border-radius: 0.9375rem;
     object-fit: cover;
+    display: inline-block;
 }
 
 .explore-food .card span{
@@ -380,10 +381,13 @@ svg{
     font-size: 1.875rem;
     margin-right: 0.3125rem;
 }
+.pt-5{
+    display: inline-block;
+}
 
 .book-food{
     width: 100%;
-    background: url('../img/bg/bg-3.jpg') no-repeat center;
+    background: url('img/01_Foodies_images/images/bg/bg-3.jpg') no-repeat center;
     background-size: cover;
     background-size: cover;
     background-attachment: fixed;
