@@ -269,7 +269,7 @@ svg{
 /* Etelek szekcio dizajn */
 
 .food-type{
-    padding-top: 3.25;
+    padding-top: 3.25rem;
 }
 
 .food-type ul li{
@@ -296,7 +296,7 @@ svg{
 .story-section{
     width: 100%;
     height: 28.125rem;
-    background: url('../img/bg/bg-2.jpg');
+    background: url('img/01_Foodies_images/images/bg/bg-2.jpg');
     background-size: cover;
     padding-top: 100px;
     text-align: center;
