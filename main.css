@@ -19,6 +19,7 @@
 a,
 a:hover {
     text-decoration: none;
+    color: #000;
 }
 
 a:hover {
@@ -41,7 +42,7 @@ ul,ol {
     --text-color: #555;
     --text-gray: #999;
     --black-color: #000;
-    --primary-font: 'Roboto', sans-seriff;
+    --primary-font: 'Roboto', sans-serif;
     --secondary-font: 'Quicksand', sans-serif;
 
 }
@@ -286,7 +287,6 @@ svg{
     color:var(--primary-color);
     font-size: 1.25rem;
     font-family: "Font Awesome 5 Free";
-    content: '\f00c';
     display: inline-block;
     padding-right: 3px;
     vertical-align: middle;
