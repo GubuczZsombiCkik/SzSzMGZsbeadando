@@ -161,7 +161,7 @@ p {
     color: var(--primary-color);
 }
 
-white-btn:hover {
+.white-btn:hover {
     background-color: transparent;
     color: var(--primary-color);
     border-color: var(--primary-color);
@@ -236,9 +236,12 @@ HEADER DESIGN
 
 .top-banner{
     width: 100%;
-    background: url(../img/bg/bg-1.jpg) no-repeat center;
+    background: url('img/01_Foodies_images/images/bg/bg-1.jpg') no-repeat center;
     background-size: cover;
     padding: 16.875rem 0 9.375rem;
+}
+svg{
+    width: 15px;
 }
 
 /* Szamolo dizajn */
