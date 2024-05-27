@@ -381,9 +381,6 @@ svg{
     font-size: 1.875rem;
     margin-right: 0.3125rem;
 }
-.pt-5{
-    display: inline-block;
-}
 
 .book-food{
     width: 100%;
@@ -439,4 +436,8 @@ svg{
     font-size: 1.5rem;
     color: var(--white-color);
     padding: 0 1rem;
+}
+.fab svg{
+    width: 50px;
+    border-spacing: 8px;
 }
