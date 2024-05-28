@@ -95,7 +95,7 @@ h2 {
     font-size: 2rem;
     text-transform: capitalize;
     font-family: var(--secondary-font);
-    color: var(--secondary-color);
+    color: var(--white-color);
     line-height: 3rem;
 }
 
